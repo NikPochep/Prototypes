@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.19.2)
 project(MemRegCyclic)
 
 set(SOURCES
-    ./main.c
+    ./src/main.c
 
     )
 
